@@ -1,0 +1,4 @@
+#Tue Sep 03 12:00:51 BRT 2019
+base.0=C\:\\Users\\3819009\\Downloads\\EasyARSense_3.0.1-final_Basic_Samples_Android\\HelloAR\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
